@@ -1,4 +1,4 @@
-# Just a simple module with functions to make data analysis bit easier
+# Just a simple module with functions to make collumn based operation bit easier
 
 
 
